@@ -1,0 +1,2 @@
+# Python-Game-of-Life
+:octocat: Regras do jogo da vida: 1. Qualquer célula viva com menos de dois vizinhos vivos morre, como se causada por subpopulação. 2. Qualquer célula viva com dois ou três vizinhos vivos vive para a próxima geração. 3. Qualquer célula viva com mais de três vizinhos vivos morre, como se por superpopulação. 4. Qualquer célula morta com exatamente três vizinhos vivos torna-se uma célula viva, como se por reprodução.
